@@ -4,8 +4,12 @@
     list-style: none;
 }
 P{
-    color : red;
+    color : brown;
 }
 *{
     background-color: lightgreen;
+}
+h1
+{
+color: blue;
 }
